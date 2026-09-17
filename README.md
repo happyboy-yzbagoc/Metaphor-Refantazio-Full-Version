@@ -247,4 +247,4 @@ This repository serves as the official landing page for Metaphor: ReFantazio. Th
 **Get the most recent version of Metaphor: ReFantazio today!**
 
 ---
-**Last updated:** 2026-09-17 20:36:09 UTC
+**Last updated:** 2026-09-17 23:09:00 UTC
